@@ -1,0 +1,17 @@
+input {
+  display: block;
+  margin: 5px;
+  margin-left: 0px;
+  border: 2px black solid;
+  border-radius: 5px;
+}
+
+select {
+  display: block;
+  margin: 5px;
+  margin-left: 0px;
+}
+
+input:invalid {
+  border-color: red;
+}
